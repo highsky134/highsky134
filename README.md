@@ -6,7 +6,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient)
 
-![](./80321899.jpg)
+
 
 <h3>📚 Tech Stack 📚</h3>
 
